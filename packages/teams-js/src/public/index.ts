@@ -121,3 +121,4 @@ export * as settings from './settings';
 export { tasks } from './tasks';
 export { liveShare, LiveShareHost } from './liveShareHost';
 export { marketplace } from './marketplace';
+export { ISerializable } from './serializable.interface';
